@@ -1,0 +1,5 @@
+As a user I can edit my todo list items.
+
+As a user I can delete todo list items.
+
+As a user I can find contact information for the creator of the app.
